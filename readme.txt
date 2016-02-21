@@ -6,3 +6,5 @@ Git tracks changes of files.
 create the feature branch very quickly.
 
 new dev branch, not fast forward merge.
+
+a fixed
