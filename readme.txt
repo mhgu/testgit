@@ -10,3 +10,5 @@ new dev branch, not fast forward merge.
 is working, can not commit.
 
 work is done.
+
+I will commit my work.
